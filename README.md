@@ -26,7 +26,8 @@
         - union-find
         - union-by-rank
         - pass compression
-      - 프림 알고리즘
+      - 프림 알고리즘(간선 중심)
+      - 개선된 프림 알고리즘(노드 중심)
         
 ### 참고 사이트
 - [정렬](https://velog.io/@dnjscksdn98/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A0%95%EB%A0%AC)
