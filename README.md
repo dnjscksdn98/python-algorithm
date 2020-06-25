@@ -28,6 +28,9 @@
         - pass compression
       - 프림 알고리즘(간선 중심)
       - 개선된 프림 알고리즘(노드 중심)
+      
+5) [백트래킹](https://github.com/dnjscksdn98/algorithm-backtracking)
+    - N-Queens
         
 ### 참고 사이트
 - [정렬](https://velog.io/@dnjscksdn98/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A0%95%EB%A0%AC)
@@ -36,3 +39,4 @@
 - [다익스트라](https://velog.io/@dnjscksdn98/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC)
 - [그래프](https://velog.io/@dnjscksdn98/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B7%B8%EB%9E%98%ED%94%84)
 - [최소신장트리](https://velog.io/@dnjscksdn98/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B5%9C%EC%86%8C-%EC%8B%A0%EC%9E%A5-%ED%8A%B8%EB%A6%AC)
+- [백트래킹](https://velog.io/@dnjscksdn98/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B0%B1-%ED%8A%B8%EB%9E%98%ED%82%B9)
