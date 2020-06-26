@@ -1,5 +1,8 @@
 ## 파이썬으로 배워보는 알고리즘
 
+### 백준 문제 풀이
+- [baekjoon-online-judge](https://github.com/dnjscksdn98/baekjoon-algorithm)
+
 ### 목차
 1) [정렬 알고리즘](https://github.com/dnjscksdn98/algorithm-sorting)
     - 버블 정렬(Bubble Sort)
